@@ -19,7 +19,7 @@ const weatherIcons = {
 function App() {
   const [weatherData, setWeatherData] = useState(null);
   const [location, setLocation] = useState('');
-  const apiKey = 'fa816e71185d5d31572882aa68b45ba9';
+  const apiKey = "Get your own API key";
 
   const fetchWeatherData = () => {
     const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=${apiKey}`;
