@@ -1,3 +1,6 @@
+# This is an easy weather app that I created using the basic REACT-JS, CSS and API
+
+you can get your API from the OpenWeatherAPI and get your API key for free it is very easy and make sure you have the Reactjs installed before you start this project
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
