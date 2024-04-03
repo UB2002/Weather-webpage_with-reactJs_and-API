@@ -7,7 +7,7 @@ import rainIcon from './pics/rain.png';
 import humidityIcon from './pics/humidity.png';
 import windspeedIcon from './pics/windspeed.png';
 import tempIcon from './pics/temp.png';
-
+///this are weather icons
 const weatherIcons = {
   Clear: sunnyIcon,
   Haze: hazeIcon,
